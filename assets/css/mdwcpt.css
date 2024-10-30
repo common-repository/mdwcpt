@@ -1,0 +1,193 @@
+a.mdwcpt-trigger {
+    margin: 0 0.5em 0 0.5em;
+    font-size: 0.8em;
+    border-bottom: 1px dashed;
+    cursor: pointer;
+    vertical-align: text-bottom;
+    text-decoration: none!important;
+    -webkit-box-shadow: none!important;
+    box-shadow: none!important;
+    display: inline-block;
+    line-height: initial;
+    vertical-align: text-bottom;
+    margin-bottom: 0.25em;
+}
+
+.mdwcpt-inloop > a.mdwcpt-trigger {
+    font-size: 1em;
+}
+
+.mdwcpt-track-icon {
+	display: inline-block!important;
+    width: 1em;
+    height: 1em;
+    opacity: 0;
+    margin: 0 0.25em 0 0!important;
+    vertical-align: middle;
+	background-image: url("data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMjRwdCIgaGVpZ2h0PSIyNHB0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHZlcnNpb249IjEuMSI+CjxnIGlkPSJzdXJmYWNlMSI+CjxwYXRoIHN0eWxlPSIgc3Ryb2tlOm5vbmU7ZmlsbC1ydWxlOm5vbnplcm87ZmlsbDpyZ2IoMCUsMCUsMCUpO2ZpbGwtb3BhY2l0eToxOyIgZD0iTSAyMS4yNDYwOTQgMTMuOTEwMTU2IEwgMTMuNjk5MjE5IDYuMzU1NDY5IEwgOC44OTg0MzggMTEuMTU2MjUgTCAxLjY5OTIxOSAzLjk1NzAzMSBMIDAgNS42NTIzNDQgTCA4Ljg5ODQzOCAxNC41NTA3ODEgTCAxMy42OTkyMTkgOS43NTM5MDYgTCAxOS41NTQ2ODggMTUuNjAxNTYyIEwgMTYuODAwNzgxIDE4LjM1NTQ2OSBMIDI0IDE4LjM1NTQ2OSBMIDI0IDExLjE1NjI1IFogTSAyMS4yNDYwOTQgMTMuOTEwMTU2ICIvPgo8L2c+Cjwvc3ZnPgo=");
+	background-size: 100% 100%;
+    background-position: center;
+}
+
+a.mdwcpt-trigger:hover > .mdwcpt-track-icon {
+	opacity: 1!important;
+}
+
+a.mdwcpt-trigger:hover {
+    border-bottom: 1px solid!important;
+    font-weight: 700!important;;
+}
+
+.mdwcpt-bg {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 10000000;
+    background: rgba(0, 0, 0, 0.85);
+    text-align: center;
+	display: none;
+}
+
+#mdwcpt-recaptcha {
+    position: absolute;
+    z-index: 10000001;
+	display: none;
+}
+
+#mdwcpt-recaptcha .grecaptcha-badge {
+	opacity: 0.7;
+}
+
+#mdwcpt-recaptcha .grecaptcha-badge:hover {
+	opacity: 1;
+}
+
+.mdwcpt-bg.mdwcpt-popup  {
+	display: block;
+}
+
+.mdwcpt-bg.mdwcpt-popup > .mdwcpt-form {
+	margin-top: 10%;
+}
+
+.mdwcpt-form {
+    display: inline-block;
+    background: #fff;
+    max-width: 360px;
+    width: auto;
+    margin-top: 3%;
+	position: relative;
+	overflow-x: hidden;
+	border-radius: 3px;
+	overflow-y: auto;
+    max-height: 100%;
+}
+
+.mdwcpt-form-head {
+    background: #c3c3c3;
+	color: initial;
+    padding: 0 15px;
+    width: 100%;
+    margin: 0 0 0.5em 0;
+    line-height: 1.8em!important;
+	box-sizing: border-box;
+	box-shadow: 0px -2px 2px 2px #777777;
+}
+
+.mdwcpt-field label {
+    font-weight: 600;
+    display: inline-block;
+    line-height: 1.25em;
+}
+
+small.mdwcpt-small {
+    line-height: 1.2em;
+    display: inline-block;
+    font-size: 75%;
+}
+
+.mdwcpt-field > * {
+    width: 100%;
+}
+
+.mdwcpt-field, .mdwcpt-field.woocommerce-message {
+    margin: 0 15px 0.5em;
+}
+
+button.mdwcpt-input {
+	cursor: pointer;
+}
+
+.mdwcpt-field.wcpt-hidden, .mdwcpt-img.wcpt-hidden {
+    display:none;
+}
+
+.mdwcpt-req {
+	color: #cc0033;
+    padding-left: 2px;
+    font-weight: bold;
+}
+
+.mdwcpt-msg {
+    padding: 0.33em!important;
+    line-height: 1.33em!important;
+    font-size: 0.85em!important;
+}
+
+.mdwcpt-field > .mdwcpt-msg {
+    margin-bottom: 0.25em;
+}
+
+.mdwcpt-close {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: auto;
+    font-style: normal!important;
+    padding: 0;
+    line-height: 22px;
+    font-size: 20px;
+    overflow: hidden;
+    cursor: pointer;
+	color: #000000;
+}
+
+.mdwcpt-close:after {
+    content: '\02715';
+    padding: 0 2px;
+}
+
+.mdwcpt-gal {
+    width: 100%;
+}
+
+.mdwcpt-img {
+    margin: 0.5em auto 0;
+    max-width: 100px!important;
+}
+
+@media only screen and (orientation: portrait) and (max-width: 360px) {
+	.mdwcpt-form {
+		margin: 0;
+		min-height: 100%;
+		border-radius: 0px;
+	}
+	.mdwcpt-bg.mdwcpt-popup > .mdwcpt-form {
+		min-height: initial;
+		overflow-y: initial;
+		max-height: initial;		
+	}
+}
+
+@media only screen and (orientation: landscape) and (max-height: 480px) {
+	.mdwcpt-form {
+		margin-top: 1%;
+	}
+    .mdwcpt-bg.mdwcpt-popup > .mdwcpt-form {
+		margin-top: 7%;
+		overflow-y: initial;
+		max-height: initial;		
+	}
+}

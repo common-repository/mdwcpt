@@ -1,0 +1,1018 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: "
+"MDWCPT 1.0.0\n"
+"POT-Creation-Date: "
+"2020-02-03 00:12+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/"
+"plain; charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"PO-Revision-Date: "
+"2019-1-18 18:24+300\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;"
+"_n:1,2;_nx:1,2,4c;"
+"_n_noop:1,2;"
+"_nx_noop:1,2,3c;"
+"esc_attr__;esc_html__;"
+"esc_attr_e;esc_html_e;"
+"esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"Language: en_US\n"
+"Plural-Forms: "
+"nplurals=2; plural=(n !"
+"= 1);\n"
+"X-Poedit-"
+"SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: "
+"yes\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit "
+"2.2.3\n"
+"X-Poedit-"
+"SearchPath-0: .\n"
+"X-Poedit-"
+"SearchPathExcluded-0: "
+"inc/abstracts/abstract-"
+"class-mdwcpt-list-"
+"table.php\n"
+
+#: inc/class-mdwcpt-admin.php:57
+msgid "Settings"
+msgstr ""
+
+#: inc/class-mdwcpt-admin.php:87
+#: inc/class-mdwcpt-admin.php:88
+#: inc/class-mdwcpt-privacy.php:40
+#: inc/class-mdwcpt-privacy.php:55
+#: inc/class-mdwcpt-privacy.php:138
+#: templates/admin/subscriptions-list-table.php:13
+msgid ""
+"Price tracking "
+"subscriptions"
+msgstr ""
+
+#: inc/class-mdwcpt-admin.php:105
+msgid "Items Per Page"
+msgstr ""
+
+#: inc/class-mdwcpt-admin.php:147
+#, php-format
+msgid ""
+"%s subscription "
+"successfully deleted"
+msgid_plural ""
+"%s subscriptions "
+"successfully deleted"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-mdwcpt-admin.php:150
+#, php-format
+msgid ""
+"Price of %s product "
+"reduced to expected"
+msgid_plural ""
+"Prices of %s products "
+"reduced to expected"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-mdwcpt-admin.php:179
+msgid ""
+"Something wen't wrong, "
+"please try again"
+msgstr ""
+
+#: inc/class-mdwcpt-background-emailer.php:381
+#, php-format
+msgid "Every %d Minutes"
+msgstr ""
+
+#: inc/class-mdwcpt-list-table-subscriptions.php:149
+#: inc/class-mdwcpt-privacy.php:88
+msgid "Product"
+msgstr ""
+
+#: inc/class-mdwcpt-list-table-subscriptions.php:150
+msgid "Current price"
+msgstr ""
+
+#: inc/class-mdwcpt-list-table-subscriptions.php:151
+#: inc/class-mdwcpt-privacy.php:87
+msgid "Expected price"
+msgstr ""
+
+#: inc/class-mdwcpt-list-table-subscriptions.php:152
+msgid "User"
+msgstr ""
+
+#: inc/class-mdwcpt-list-table-subscriptions.php:153
+msgid "Created"
+msgstr ""
+
+#: inc/class-mdwcpt-list-table-subscriptions.php:154
+msgid "Updated"
+msgstr ""
+
+#: inc/class-mdwcpt-list-table-subscriptions.php:157
+#: inc/class-mdwcpt-list-table-subscriptions.php:354
+msgid "Sent"
+msgstr ""
+
+#: inc/class-mdwcpt-list-table-subscriptions.php:159
+msgid "Queued"
+msgstr ""
+
+#: inc/class-mdwcpt-list-table-subscriptions.php:208
+msgid "Edit product"
+msgstr ""
+
+#: inc/class-mdwcpt-list-table-subscriptions.php:216
+msgid ""
+"Delete subscription"
+msgstr ""
+
+#: inc/class-mdwcpt-list-table-subscriptions.php:220
+msgid "variation"
+msgstr ""
+
+#: inc/class-mdwcpt-list-table-subscriptions.php:224
+msgid "View product"
+msgstr ""
+
+#: inc/class-mdwcpt-list-table-subscriptions.php:259
+msgid "now on sale"
+msgstr ""
+
+#: inc/class-mdwcpt-list-table-subscriptions.php:270
+msgid ""
+"Reduce to expected"
+msgstr ""
+
+#: inc/class-mdwcpt-list-table-subscriptions.php:352
+msgid "Active"
+msgstr ""
+
+#: inc/class-mdwcpt-list-table-subscriptions.php:353
+msgid "Queued to be sent"
+msgstr ""
+
+#: inc/class-mdwcpt-list-table-subscriptions.php:390
+msgid ""
+"Delete subscriptions"
+msgstr ""
+
+#: inc/class-mdwcpt-list-table-subscriptions.php:393
+msgid ""
+"Reduce prices to "
+"expected"
+msgstr ""
+
+#: inc/class-mdwcpt-loader.php:132
+msgid ""
+"MD Price Tracker for "
+"WooCommerce plugin "
+"requires PHP 5.5 or "
+"greater. Ask your host "
+"about PHP upgrade."
+msgstr ""
+
+#: inc/class-mdwcpt-loader.php:135
+msgid ""
+"MD Price Tracker for "
+"WooCommerce plugin "
+"requires WordPress 4.4 "
+"or greater."
+msgstr ""
+
+#: inc/class-mdwcpt-loader.php:138
+msgid ""
+"MD Price Tracker for "
+"WooCommerce plugin "
+"requires WooCommerce "
+"plugin to be installed "
+"and activated."
+msgstr ""
+
+#: inc/class-mdwcpt-privacy.php:86
+#: inc/class-mdwcpt-utils.php:42
+msgid "Email address"
+msgstr ""
+
+#: inc/class-mdwcpt-privacy.php:89
+msgid "Status"
+msgstr ""
+
+#: inc/class-mdwcpt-privacy.php:90
+msgid "Date created"
+msgstr ""
+
+#: inc/class-mdwcpt-privacy.php:91
+msgid "Date updated"
+msgstr ""
+
+#: inc/class-mdwcpt-privacy.php:92
+msgid "Date sent"
+msgstr ""
+
+#: inc/class-mdwcpt-privacy.php:113
+msgid "Hidden product"
+msgstr ""
+
+#: inc/class-mdwcpt-privacy.php:190
+msgid ""
+"What personal data we "
+"collect and store:"
+msgstr ""
+
+#: inc/class-mdwcpt-privacy.php:191
+msgid ""
+"When you submit a "
+"price tracking "
+"subscription form, we "
+"collect filled data "
+"for the following "
+"purposes:"
+msgstr ""
+
+#: inc/class-mdwcpt-privacy.php:193
+msgid ""
+"Expected price - we’ll "
+"store it to calculate "
+"whether to send you an "
+"email or not if "
+"product price is "
+"reduced someday"
+msgstr ""
+
+#: inc/class-mdwcpt-privacy.php:194
+msgid ""
+"Your email adress - "
+"we’ll use it to send "
+"you an email as soon "
+"as the price of the "
+"product reduced to "
+"expected and also to "
+"send you several other "
+"transactional emails, "
+"for example, about a "
+"successful subscription"
+msgstr ""
+
+#: inc/class-mdwcpt-privacy.php:195
+msgid ""
+"We may also ask "
+"unauthorized visitors "
+"to provide a password "
+"for security purposes "
+"if the entered email "
+"address belongs to a "
+"registered customer"
+msgstr ""
+
+#: inc/class-mdwcpt-privacy.php:197
+msgid ""
+"We also collect some "
+"other data during "
+"subscription for the "
+"following purposes:"
+msgstr ""
+
+#: inc/class-mdwcpt-privacy.php:199
+msgid ""
+"Product that you "
+"viewed during "
+"subscription - we’ll "
+"use it to properly "
+"compose price tracking "
+"email"
+msgstr ""
+
+#: inc/class-mdwcpt-privacy.php:200
+msgid ""
+"Date and time of "
+"submission is "
+"collected for "
+"administrative tasks "
+"such as statistics"
+msgstr ""
+
+#: inc/class-mdwcpt-privacy.php:202
+msgid ""
+"For what reasons we "
+"collect mentioned "
+"above data:"
+msgstr ""
+
+#: inc/class-mdwcpt-privacy.php:204
+msgid ""
+"We store that data to "
+"send you promotional "
+"email if price of the "
+"product will be "
+"reduced to expected "
+"someday"
+msgstr ""
+
+#: inc/class-mdwcpt-privacy.php:205
+msgid ""
+"Also, a promotional "
+"email can be sent to "
+"you at the time of "
+"sale if the "
+"promotional price of "
+"the product will be "
+"lower or equal to the "
+"expected price"
+msgstr ""
+
+#: inc/class-mdwcpt-privacy.php:206
+msgid ""
+"And lastly, store "
+"managers can send a "
+"personal promocode to "
+"your email address if "
+"the expected price is "
+"considered satisfactory"
+msgstr ""
+
+#: inc/class-mdwcpt-privacy.php:209
+msgid ""
+"We store mentioned "
+"above data for as long "
+"as we need it for the "
+"purposes for which we "
+"collect and use it."
+msgstr ""
+
+#: inc/class-mdwcpt-privacy.php:210
+msgid ""
+"This data can be "
+"deleted by "
+"unsubscribing from the "
+"price tracking by "
+"clicking on the link "
+"that we send to the "
+"specified email "
+"address during the "
+"subscription."
+msgstr ""
+
+#: inc/class-mdwcpt-privacy.php:211
+msgid ""
+"Access to this data "
+"has Administrators and "
+"Shop Managers."
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:89
+msgid "General"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:90
+msgid "Form labels"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:91
+msgid "Emails"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:142
+msgid ""
+"Tracking form "
+"available for:"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:147
+msgid ""
+"Guests and customers"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:148
+msgid ""
+"Only for customers"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:149
+msgid "Only for guests"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:157
+msgid ""
+"Hide subscription form "
+"if product is out of "
+"stock"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:161
+msgid ""
+"Modal form trigger "
+"link position on "
+"product page"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:164
+msgid ""
+"Choose where modal "
+"subscription form "
+"trigger button will be "
+"rendered on product "
+"page. You can also use "
+"[mdwcpt_form "
+"product_id=12345] "
+"shortcode to display "
+"form anywhere."
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:167
+msgid ""
+"Before product price"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:168
+msgid ""
+"After product price"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:169
+#: inc/class-mdwcpt-settings-page.php:189
+msgid ""
+"Before ADD TO CART "
+"button"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:170
+#: inc/class-mdwcpt-settings-page.php:190
+msgid ""
+"After ADD TO CART "
+"button"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:171
+msgid ""
+"Before ADD TO CART form"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:172
+msgid ""
+"After ADD TO CART form"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:173
+msgid ""
+"Before product "
+"description"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:174
+msgid ""
+"After product "
+"description"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:175
+msgid ""
+"Before product meta"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:176
+msgid ""
+"After product meta"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:177
+msgid ""
+"Hide for shortcode "
+"usage"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:182
+msgid ""
+"Modal form trigger "
+"link position on "
+"products archives"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:185
+msgid ""
+"Choose where modal "
+"subscription form "
+"trigger button will be "
+"rendered on shop page "
+"and product archives."
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:188
+msgid ""
+"Hide on product "
+"archives"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:195
+msgid ""
+"Enable password check"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:198
+msgid ""
+"Request a password if "
+"the submitter is "
+"logged out and the "
+"entered email address "
+"belongs to a "
+"registered customer."
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:202
+msgid ""
+"Google reCAPTCHA "
+"verification"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:205
+msgid ""
+"Set when to use Google "
+"reCAPTCHA to protect "
+"the form"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:208
+msgid "Disabled"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:209
+msgid ""
+"Enabled only for guests"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:210
+msgid "Enabled for all"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:215
+msgid ""
+"Google reCAPTCHA site "
+"key"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:219
+#: inc/class-mdwcpt-settings-page.php:227
+msgid ""
+"Get Google reCAPTCHA "
+"key"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:223
+msgid ""
+"Google reCAPTCHA "
+"secret key"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:232
+msgid ""
+"Delete plugin data "
+"during uninstall"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:235
+msgid ""
+"Enable to delete all "
+"plugin data, including "
+"all subscriptions and "
+"all settings, during "
+"plugin uninstall."
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:246
+msgid "Field names"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:248
+msgid ""
+"Adjust labels and "
+"placeholders for the "
+"fields and the form "
+"itself"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:252
+msgid "Form title"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:259
+msgid "Email field label"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:266
+msgid ""
+"Email field placeholder"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:273
+msgid ""
+"Title for variations "
+"dropdown"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:275
+msgid ""
+"This field is for "
+"variable and grouped "
+"products"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:281
+msgid ""
+"Default option for "
+"variations dropdown"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:288
+msgid "Price field label"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:295
+msgid ""
+"Password field label"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:302
+msgid ""
+"Privacy policy text"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:304
+#, php-format
+msgid ""
+"This text will be "
+"rendered only if the "
+"Privacy Policy page in "
+"main woocommerce "
+"settings is set. "
+"Available "
+"placeholders: %s"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:310
+msgid ""
+"Submit button label"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:319
+msgid "Submit messages"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:321
+msgid ""
+"Adjust success and "
+"error messages of "
+"subscription form"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:325
+msgid ""
+"Subscription success "
+"message"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:333
+msgid ""
+"Subscription updated "
+"message"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:341
+msgid ""
+"Invalid email message"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:349
+msgid ""
+"Invalid password "
+"message"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:357
+msgid ""
+"Invalid price message"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:362
+#: inc/class-mdwcpt-settings-page.php:397
+#: inc/class-mdwcpt-settings-page.php:407
+#: inc/class-mdwcpt-settings-page.php:417
+#: inc/class-mdwcpt-settings-page.php:443
+#: inc/class-mdwcpt-settings-page.php:453
+#: inc/class-mdwcpt-settings-page.php:463
+#, php-format
+msgid ""
+"Available "
+"placeholders: %s"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:367
+msgid ""
+"Unsubscribe success "
+"message"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:375
+msgid ""
+"Unsubscribe error "
+"message"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:388
+msgid ""
+"Subscription success "
+"email"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:393
+#: inc/class-mdwcpt-settings-page.php:439
+msgid "Subject"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:403
+#: inc/class-mdwcpt-settings-page.php:449
+msgid "Title"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:413
+#: inc/class-mdwcpt-settings-page.php:459
+msgid "Message"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:426
+msgid ""
+"Notify administrator "
+"by email if new user "
+"is subscribed"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:433
+msgid ""
+"Price cheapening email"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:469
+msgid ""
+"Delete sent "
+"subscriptions after:"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:471
+msgid "day(s)"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:472
+msgid ""
+"After that period sent "
+"subscriptions will be "
+"automatically deleted. "
+"Don't fill this to "
+"disable automatic "
+"deletion"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:479
+msgid "Max sending limit"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:481
+msgid ""
+"Limit the number of "
+"emails that can be "
+"sent by the plugin per "
+"minute. Don't fill "
+"this for unlimited "
+"speed"
+msgstr ""
+
+#: inc/class-mdwcpt-settings-page.php:482
+msgid "emails/minute"
+msgstr ""
+
+#: inc/class-mdwcpt-utils.php:41
+msgid "Price tracking"
+msgstr ""
+
+#: inc/class-mdwcpt-utils.php:43
+msgid "user@domain.com"
+msgstr ""
+
+#: inc/class-mdwcpt-utils.php:44
+msgid ""
+"Email me if the price "
+"is less or equals:"
+msgstr ""
+
+#: inc/class-mdwcpt-utils.php:45
+msgid ""
+"Password (mandatory "
+"for registered users)"
+msgstr ""
+
+#: inc/class-mdwcpt-utils.php:46
+msgid ""
+"Select variation you "
+"like to track:"
+msgstr ""
+
+#: inc/class-mdwcpt-utils.php:47
+msgid "Select variation"
+msgstr ""
+
+#: inc/class-mdwcpt-utils.php:50
+#, php-format
+msgid ""
+"Your personal data "
+"will be used according "
+"to our %s"
+msgstr ""
+
+#: inc/class-mdwcpt-utils.php:51
+msgid "privacy policy"
+msgstr ""
+
+#: inc/class-mdwcpt-utils.php:53
+msgid "Track price"
+msgstr ""
+
+#: inc/class-mdwcpt-utils.php:62
+msgid ""
+"You are successfully "
+"subscribed. We email "
+"to you when product "
+"price will match to "
+"your request!"
+msgstr ""
+
+#: inc/class-mdwcpt-utils.php:63
+msgid ""
+"Your subscription "
+"succesfully updated!"
+msgstr ""
+
+#: inc/class-mdwcpt-utils.php:64
+msgid ""
+"Please enter valid "
+"email address"
+msgstr ""
+
+#: inc/class-mdwcpt-utils.php:65
+msgid ""
+"Entered password is "
+"invalid!"
+msgstr ""
+
+#: inc/class-mdwcpt-utils.php:67
+#, php-format
+msgid ""
+"Please enter valid "
+"price: positive number "
+"less than %s"
+msgstr ""
+
+#: inc/class-mdwcpt-utils.php:68
+msgid ""
+"You are successfully "
+"unsubscribed!"
+msgstr ""
+
+#: inc/class-mdwcpt-utils.php:69
+msgid ""
+"Unsubscribe error - "
+"subscription not found!"
+msgstr ""
+
+#: inc/class-mdwcpt-utils.php:78
+#, php-format
+msgid ""
+"Price tracking "
+"subscription: %s "
+"product"
+msgstr ""
+
+#: inc/class-mdwcpt-utils.php:80
+#: inc/class-mdwcpt-utils.php:99
+#, php-format
+msgid ""
+"%s: price tracking"
+msgstr ""
+
+#: inc/class-mdwcpt-utils.php:84
+#: inc/class-mdwcpt-utils.php:103
+#, php-format
+msgid "Hello %s!"
+msgstr ""
+
+#: inc/class-mdwcpt-utils.php:86
+#, php-format
+msgid ""
+"You are successfully "
+"subscribed to %s "
+"product price tracking."
+msgstr ""
+
+#: inc/class-mdwcpt-utils.php:88
+#, php-format
+msgid ""
+"We will notify you "
+"when product price "
+"will be reduced to %s "
+"or less."
+msgstr ""
+
+#: inc/class-mdwcpt-utils.php:90
+#, php-format
+msgid ""
+"To cancel subscription "
+"follow this %s."
+msgstr ""
+
+#: inc/class-mdwcpt-utils.php:90
+#: inc/class-mdwcpt-utils.php:114
+msgid "LINK"
+msgstr ""
+
+#: inc/class-mdwcpt-utils.php:97
+#, php-format
+msgid ""
+"%s product price "
+"reduced!"
+msgstr ""
+
+#: inc/class-mdwcpt-utils.php:105
+#, php-format
+msgid ""
+"Price of %1$s product "
+"is reduced to %2$s."
+msgstr ""
+
+#: inc/class-mdwcpt-utils.php:108
+#, php-format
+msgid ""
+"Hurry to %s because it "
+"may be a temporary "
+"offer!"
+msgstr ""
+
+#: inc/class-mdwcpt-utils.php:110
+msgid ""
+"add this product to "
+"cart"
+msgstr ""
+
+#: inc/class-mdwcpt-utils.php:114
+#, php-format
+msgid ""
+"To renew subscription "
+"follow this %s"
+msgstr ""
+
+#: inc/emails/class-mdwcpt-success-admin-email.php:32
+msgid ""
+"price tracking "
+"subscription"
+msgstr ""
+
+#: inc/emails/class-mdwcpt-success-admin-email.php:33
+msgid ""
+"New price tracking "
+"subscription!"
+msgstr ""
+
+#: inc/emails/class-mdwcpt-success-admin-email.php:36
+msgid "Hello"
+msgstr ""
+
+#: inc/emails/class-mdwcpt-success-admin-email.php:37
+msgid ""
+"New price tracking "
+"subscription for a "
+"product"
+msgstr ""
+
+#: inc/emails/class-mdwcpt-success-admin-email.php:38
+msgid ""
+"Full details can be "
+"found"
+msgstr ""
+
+#: inc/emails/class-mdwcpt-success-admin-email.php:39
+msgid "Here"
+msgstr ""
+
+#: templates/admin/subscriptions-list-table.php:16
+msgid ""
+"Search by product name "
+"or id, user name or "
+"email"
+msgstr ""
